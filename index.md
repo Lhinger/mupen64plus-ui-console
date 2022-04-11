@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
   <head>
@@ -22,8 +22,6 @@
           <h2 id="project_tagline">A port of the popular Nintendo 64 emulator for the web</h2>
 
             <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/jquesnelle/mupen64plus-ui-console/zipball/emscripten">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/jquesnelle/mupen64plus-ui-console/tarball/emscripten">Download this project as a tar.gz file</a>
             </section>
         </header>
     </div>
@@ -34,12 +32,6 @@
         <h3>
 			Basic info
 		</h3>
-		<p>
-			This is a port of <a href="https://code.google.com/p/mupen64plus/">mupen64plus</a>, the popular Nintendo 64 emulator for the web. It uses <a href="https://github.com/kripken/emscripten">emscripten</a> 
-			to compile the C/C++ code of mupen64plus to <a href="http://asmjs.org/">asm.js</a>, a subset of Javascript meant to be highly optimizable. This port is currently very immature with lots of work left to 
-			be done; for example, gamepads, save states and customizable controls are not supported and there are also many graphical glitches in games. Furthermore, it requires <a href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a>, although support for Chrome 
-			should be coming soon.
-		</p>
 		<h3>
 			Controls
 		</h3>
