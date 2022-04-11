@@ -1,7 +1,7 @@
-title: mupen64plus via emscripten
-description: A port of the popular Nintendo 64 emulator for the web
+title: Lhinger's N64
+description: A web N64 emulator (This was completely made by jquesnelle on github)
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
