@@ -1,5 +1,27 @@
 
-# sus
+## INSTRUCTIONS
+
+1. Download one of the N64 roms below (click on the game you want)
+
+2. Scroll down to where it says "play" then click the "choose files" button right below it
+
+3. Select the rom that you just downloaded, and click "open"
+
+
+
+## ROMS
+
+[Mario 64](https://github.com/AlexBlackmore/roms/raw/master/n64/Super%20Mario%2064%20(USA).n64)
+
+[Paper Mario](https://github.com/AlexBlackmore/roms/raw/master/n64/Paper%20Mario%20(USA).n64)
+
+[Kirby 64](https://github.com/AlexBlackmore/roms/raw/master/n64/Kirby%2064%20-%20The%20Crystal%20Shards%20(USA).n64)
+
+[Legend of Zelda, Ocarina of time](https://github.com/AlexBlackmore/roms/raw/master/n64/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(Rev%20B).n64)
+
+[Banjo-Kazooie](https://github.com/AlexBlackmore/roms/raw/master/n64/Banjo-Kazooie%20(USA)%20(Rev%20A).n64)
+
+[Gex 3 (i think im gonna puke)](https://github.com/AlexBlackmore/roms/raw/master/n64/Gex%203%20-%20Deep%20Cover%20Gecko%20(USA).n64)
 
 
 <html>
