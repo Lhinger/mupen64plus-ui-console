@@ -1,0 +1,8 @@
+title: mupen64plus via emscripten
+description: A port of the popular Nintendo 64 emulator for the web
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
