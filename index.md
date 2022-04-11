@@ -1,4 +1,7 @@
 
+# sus
+
+
 <html>
 
   <head>
@@ -7,8 +10,10 @@
     <meta name="description" content="Lhinger's N64 : An online N64 emulator (MADE COMPLETELY BY JQUESNELLE" />
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-  </head>
+	
+	
+	
+	</head>
 
   <body>
 
@@ -17,7 +22,12 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-		<h3>
+		
+	      
+	      
+	      
+	      
+	      <h3>
 			Controls
 		</h3>
 		<p>
