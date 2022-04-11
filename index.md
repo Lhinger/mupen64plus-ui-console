@@ -4,11 +4,10 @@
   <head>
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="mupen64plus via emscripten : A port of the popular Nintendo 64 emulator for the web" />
+    <meta name="description" content="Lhinger's N64 : An online N64 emulator (MADE COMPLETELY BY JQUESNELLE" />
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>mupen64plus via emscripten</title>
   </head>
 
   <body>
@@ -16,10 +15,6 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <a id="forkme_banner" href="https://github.com/jquesnelle/mupen64plus-ui-console/tree/emscripten">View on GitHub</a>
-
-          <h1 id="project_title">mupen64plus via emscripten</h1>
-          <h2 id="project_tagline">A port of the popular Nintendo 64 emulator for the web</h2>
 
             <section id="downloads">
             </section>
