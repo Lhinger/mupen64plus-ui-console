@@ -12,21 +12,11 @@
 
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-
-            <section id="downloads">
-            </section>
-        </header>
-    </div>
+   
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h3>
-			Basic info
-		</h3>
 		<h3>
 			Controls
 		</h3>
@@ -239,5 +229,3 @@
 
     
 
-  </body>
-</html>
