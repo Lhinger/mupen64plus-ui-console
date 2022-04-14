@@ -13,7 +13,7 @@
 
 [Mario 64](https://github.com/AlexBlackmore/roms/raw/master/n64/Super%20Mario%2064%20(USA).n64)
 
-[Paper Mario](https://github.com/AlexBlackmore/roms/raw/master/n64/Paper%20Mario%20(USA).n64)
+[Paper Mario](https://www.mediafire.com/file/l52viyhesl6yl1s/Paper_Mario_%2528USA%2529.n64/file)
 
 [Kirby 64](https://github.com/AlexBlackmore/roms/raw/master/n64/Kirby%2064%20-%20The%20Crystal%20Shards%20(USA).n64)
 
