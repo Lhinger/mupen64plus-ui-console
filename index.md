@@ -1,11 +1,11 @@
 
-## INSTRUCTIONS
+# INSTRUCTIONS
 
-1. Download one of the N64 roms below (click on the game you want)
+## 1. Download one of the N64 roms below (click on the game you want)
 
-2. Scroll down to where it says "play" then click the "choose files" button right below it
+## 2. Scroll down to where it says "play" then click the "choose files" button right below it
 
-3. Select the rom that you just downloaded, and click "open"
+## 3. Select the rom that you just downloaded, and click "open"
 
 
 
